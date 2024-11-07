@@ -1,0 +1,1 @@
+lf.source_text = tk.Text
